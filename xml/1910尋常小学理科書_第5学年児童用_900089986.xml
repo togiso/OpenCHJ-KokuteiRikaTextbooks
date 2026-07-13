@@ -1,0 +1,623 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ocx:doc xmlns="http://www.tei-c.org/ns/1.0" xmlns:ocx="https://openchj.github.io/ns/ocx" textID="1910第5学年" corpusName="明治理科教科書">
+      <pb n="1" />
+      <div type="chapter" n="1">
+        <head>一　油菜</head>
+        <p>
+          <s xml:id="s001">油菜は根・莖・葉を具へ、花を開く。<ocx:eos /></s>
+          <s xml:id="s002">根は地中より水及び養分を吸取り、また莖を支ふ。<ocx:eos /></s>
+          <s xml:id="s003">葉には多くのすぢ（脈）あり。<ocx:eos /></s>
+          <s xml:id="s004">花は外側にがく（萼）あり、其の内にはなびら（花瓣）あり、又其の内にをしべ（雄蕊）あり、中心にめしべ（雌蕊）あり。<ocx:eos /></s>
+          <s xml:id="s005">がくは四片に分れ、はなびらは四枚あり。<ocx:eos /></s>
+        </p>
+        <pb n="2" />
+        <p>
+          <s xml:id="s006">をしべは六本ありて、各、その先にこなぶくろ（葯）を有し、其の中より花粉を出す。<ocx:eos /></s>
+          <s xml:id="s007">めしべは一本あり。<ocx:eos /></s>
+          <s xml:id="s008">其の下部の膨れたる所はしばう（子房）にして、中に多くの小さき粒あり。<ocx:eos /></s>
+          <s xml:id="s009">花の底には蜜を出す所あり。<ocx:eos /></s>
+          <s xml:id="s010">蝶・蜂など來りて此の蜜を吸ふ。<ocx:eos /></s>
+          <s xml:id="s011">此のとき花粉は虫に附着し、更にめしべの上端に附着すべし。<ocx:eos /></s>
+          <s xml:id="s012">かくて花粉<pb n="3" />を受けたるとめしべは其のしばう次第に成長して後にみ（果實）となり、しばうの中の小さき粒はたね（種子）となる。<ocx:eos /></s>
+          <s xml:id="s013">油菜のたねより種油を取り、其の搾り粕は肥料に用ふ。<ocx:eos /></s>
+        </p>
+      </div>
+      <div type="chapter" n="2">
+        <head>二　もんしろ蝶</head>
+        <p>
+          <s xml:id="s014">もんしろ蝶の體は頭と胸と腹との三部に分たる。<ocx:eos /></s>
+          <s xml:id="s015">はね（翅）は四枚ありて、胸の上側より左右に二枚づつ出づ。<ocx:eos /></s>
+          <s xml:id="s016">脚は六本ありて、胸の下側より左右に三本づつ出づ。<ocx:eos /></s>
+          <pb n="4" />
+          <s xml:id="s017">頭の左右には丸き大なる眼一つづつあり。<ocx:eos /></s>
+          <s xml:id="s018">頭の先には二本のひげ（觸角）あり。<ocx:eos /></s>
+          <s xml:id="s019">口は細長き管にして、頭の下に卷込み置き、之を伸して花の蜜を吸ふ。<ocx:eos /></s>
+          <s xml:id="s020">もんしろ蝶の幼虫は青虫にして、菜の葉を食ふ。<ocx:eos /></s>
+        </p>
+      </div>
+      <div type="chapter" n="3">
+        <head>三　蛙</head>
+        <p>
+          <s xml:id="s021">蛙は冬の間地中にかくれ、春になれば出で來りて、<pb n="5" />卵を水中に産む。<ocx:eos /></s>
+          <s xml:id="s022">産れたる卵はおたまじやくしとなりて、水中を泳ぎ、更に成長して四本の脚を生じ、次第に其の尾を失ひて終に蛙となる。<ocx:eos /></s>
+          <s xml:id="s023">蛙の後脚は前脚よりも長くして、みづかきあり。<ocx:eos /></s>
+          <s xml:id="s024">口は甚だ廣し、下<ocx:r rt="あご">顎</ocx:r>の先に着きて後に向へる舌あり、之をひるがへして巧みに虫を捕へて食ふ。<ocx:eos /></s>
+          <s xml:id="s025">蛙は虫を多く捕ふるが故に虫害を少からしむる益あり。<ocx:eos /></s>
+        </p>
+      </div>
+      <pb n="6" />
+      <div type="chapter" n="4">
+        <head>四　つつじの花</head>
+        <p>
+          <s xml:id="s026">つつじの花のがくは五片に分れ、はなびらは五枚あり。<ocx:eos /></s>
+          <s xml:id="s027">はなびらの本の部分は相合して一の筒をなし、中に蜜あり。<ocx:eos /></s>
+          <s xml:id="s028">蝶・蜂など來りて之を吸ふ。<ocx:eos /></s>
+          <s xml:id="s029">一本のめしべを圍みて十本又は五本のをしべあり。<ocx:eos /></s>
+          <s xml:id="s030">こなぶくろの先に<pb n="7" />二つの孔あり、花粉は細き絲に綴られて此の孔より出づ。<ocx:eos /></s>
+        </p>
+      </div>
+      <div type="chapter" n="5">
+        <head>五　松</head>
+        <p>
+          <s xml:id="s031">松の花には<ocx:r rt="をばな">雄花</ocx:r>と<ocx:r rt="めばな">雌花</ocx:r>との別ありて、共にがくもはなびらもなし。<ocx:eos /></s>
+          <s xml:id="s032">雄花は多くの花粉を生じ、花粉は風に吹送られて雌花に着く。<ocx:eos /></s>
+          <s xml:id="s033">花粉が雌花に着けば、雌花成長して後みとなる。<ocx:eos /></s>
+          <s xml:id="s034">即ちまつかさなり。<ocx:eos /></s>
+          <s xml:id="s035">まつかさは後開きて多くのたねを出す。<ocx:eos /></s>
+          <s xml:id="s036">たねには一枚のはねの如きもの着けり。<ocx:eos /></s>
+          <pb n="9" />
+          <s xml:id="s037">葉は形針の如し。<ocx:eos /></s>
+          <s xml:id="s038">通常二本づつ集りて枝に着く。<ocx:eos /></s>
+          <s xml:id="s039">幹は外部に皮あり、中に堅固なる木材あり。<ocx:eos /></s>
+          <s xml:id="s040">木材には年輪あり、其の數によりて年齢を算へ得べし。<ocx:eos /></s>
+          <s xml:id="s041">松の木材は建築その他の工事に用ふ。<ocx:eos /></s>
+        </p>
+      </div>
+      <div type="chapter" n="6">
+        <head>六　竹</head>
+        <p>
+          <s xml:id="s042">竹の幹は多くの<ocx:r rt="ふし">節</ocx:r>を有し、節と節との間は空なり。<ocx:eos /></s>
+          <s xml:id="s043">葉は枝の節に着き、その本は枝を包む。<ocx:eos /></s>
+          <s xml:id="s044">葉には並行せるすぢあり。<ocx:eos /></s>
+          <s xml:id="s045">幹の下端に連りて地中に地下莖といふ莖あり。<ocx:eos /></s>
+          <s xml:id="s046">これにも多くの節あり。<ocx:eos /></s>
+          <pb n="11" />
+          <s xml:id="s047">幹の下端及び地下莖より多くの細き根出づ。<ocx:eos /></s>
+          <s xml:id="s048">筍は地下莖の節より出づる若き幹にして、多くの皮にて包まる。<ocx:eos /></s>
+          <s xml:id="s049">此の皮を「竹の皮」といふ。<ocx:eos /></s>
+          <s xml:id="s050">竹は地下莖を伸し、筍を生じて次第に繁茂するものにして、花を生ずること稀なり。<ocx:eos /></s>
+          <s xml:id="s051">竹の幹は諸種の器具を造るに用ふる等其の用途甚だ多し。<ocx:eos /></s>
+        </p>
+      </div>
+      <div type="chapter" n="7">
+        <head>七　麥</head>
+        <p>
+          <s xml:id="s052">麥の莖は細長き管にして、所所に節あり。<ocx:eos /></s>
+          <s xml:id="s053">莖の下端より多くの細き根出づ。<ocx:eos /></s>
+          <s xml:id="s054">葉は形細長くして、莖の節<pb n="12" />に着く。<ocx:eos /></s>
+          <s xml:id="s055">莖の上端に多くの花集りて穗をなす。<ocx:eos /></s>
+          <s xml:id="s056">花は各〻二枚のはう（苞）といふものに包まる。<ocx:eos /></s>
+          <s xml:id="s057">がくもはなびらもなし。<ocx:eos /></s>
+          <s xml:id="s058">をしべは三本あり。<ocx:eos /></s>
+          <s xml:id="s059">めしべは一箇あり。<ocx:eos /></s>
+          <s xml:id="s060">みは一箇のたねを有し、其のたねは養分に富みて重要なる食品なり。<ocx:eos /></s>
+          <s xml:id="s061">莖は麥稈眞田等に用ふ。<ocx:eos /></s>
+          <s xml:id="s062">麥は冬の初にたねを畑に蒔きて作り、夏の初に至<pb n="13" />りて刈取る。<ocx:eos /></s>
+        </p>
+      </div>
+      <div type="chapter" n="8">
+        <head>八　たんぽぽ</head>
+        <p>
+          <s xml:id="s063">たんぽぽの根は甚だ長くして深く地中に入り、多年の間生存す。<ocx:eos /></s>
+          <s xml:id="s064">莖は極めて短く、其の周りに多くの葉を生ず。<ocx:eos /></s>
+          <s xml:id="s065">花は長き柄の上端にあり。<ocx:eos /></s>
+          <s xml:id="s066">多くの小さき花相集りて、其の形一の大なる花の如し。<ocx:eos /></s>
+          <s xml:id="s067">かかる花を頭狀花といふ。<ocx:eos /></s>
+          <pb n="14" />
+          <s xml:id="s068">みは傘の如くに開きたる毛を具へ、よく風に吹かれて飛散す。<ocx:eos /></s>
+        </p>
+      </div>
+      <div type="chapter" n="9">
+        <head>九　いんげん豆</head>
+        <p>
+          <s xml:id="s069">いんげん豆の莖は長き蔓となり、物に卷付きて昇る。<ocx:eos /></s>
+          <s xml:id="s070">葉は各三枚づつに分る。<ocx:eos /></s>
+          <s xml:id="s071">花は形、稍、蝶に似たり。<ocx:eos /></s>
+          <s xml:id="s072">がくは其の先五片に分る。<ocx:eos /></s>
+          <s xml:id="s073">はなびらは五枚ありて、上の一枚は殊に大なり。<ocx:eos /></s>
+          <s xml:id="s074">をしべは十本あり<pb n="15" />て、一本は離れ、九本は相合せり。<ocx:eos /></s>
+          <s xml:id="s075">めしべは一本あり。<ocx:eos /></s>
+          <s xml:id="s076">みは<ocx:r rt="さや">莢</ocx:r>と名づくるものにして、中に數箇の大なるたねあり。<ocx:eos /></s>
+        </p>
+      </div>
+      <div type="chapter" n="10">
+        <head>十　燕</head>
+        <p>
+          <s xml:id="s077">燕は背黒く、腹白し。<ocx:eos /></s>
+          <s xml:id="s078">翼は長く、尾は二<ocx:r rt="また">叉</ocx:r>に分る。<ocx:eos /></s>
+          <s xml:id="s079">脚は小さし。<ocx:eos /></s>
+          <s xml:id="s080"><ocx:r rt="ゆび">趾</ocx:r>は四本づつありて、一本は後に向ふ。<ocx:eos /></s>
+          <s xml:id="s081">燕は春來り、秋去る。<ocx:eos /></s>
+          <s xml:id="s082">飛ぶこと速にして巧なり。<ocx:eos /></s>
+          <pb n="16" />
+          <s xml:id="s083">嘴は小なれども口は廣く開くことを得て、飛びながら多くの虫を捕ふ。<ocx:eos /></s>
+          <s xml:id="s084">田畑の害虫を除くの益あるにより保護すべき鳥なり。<ocx:eos /></s>
+        </p>
+      </div>
+      <div type="chapter" n="11">
+        <head>十一　栗の花</head>
+        <p>
+          <s xml:id="s085">栗の花は多く集りて長き穗をなす。<ocx:eos /></s>
+          <s xml:id="s086">花には雄花と雌花とあり。<ocx:eos /></s>
+          <s xml:id="s087">共にがくあれどもはなびらなし。<ocx:eos /></s>
+          <pb n="17" />
+          <s xml:id="s088">をしべは雄花のみにあり。<ocx:eos />めしべは雌花のみにあり。<ocx:eos /></s>
+          <s xml:id="s089">雌花は三箇ばかりづつ集りてはうに包まる。<ocx:eos /></s>
+          <s xml:id="s090">栗の花は香あり。<ocx:eos /></s>
+          <s xml:id="s091">花粉は虫に運ばれて、めしべに着く。<ocx:eos /></s>
+          <s xml:id="s092">雄花は散落ち、雌花はみを結ぶ。<ocx:eos /></s>
+        </p>
+      </div>
+      <div type="chapter" n="12">
+        <head>十二　花菖蒲</head>
+        <p>
+          <s xml:id="s093"><ocx:r rt="はなしやうぶ">花菖蒲</ocx:r>は太き地下莖を有し、これより多くの細き根を出す。<ocx:eos /></s>
+          <s xml:id="s094">葉は地下莖より出づるもの多く、形細長くして直立し、裏表の別なし。<ocx:eos /></s>
+          <s xml:id="s095">花は地下莖より出でたる長き莖の上端に生ず。<ocx:eos /></s>
+          <pb n="18" />
+          <s xml:id="s096">花の本には綠色のはうあり。<ocx:eos /></s>
+          <s xml:id="s097">がくは三枚に分れ、はなびらは三枚あり。<ocx:eos /></s>
+          <s xml:id="s098">がくは甚だ美しくしてはなびらの如し。<ocx:eos /></s>
+          <s xml:id="s099">をしべは三本あり。<ocx:eos /></s>
+          <s xml:id="s100">めしべは一箇にして、先は三片に分る。<ocx:eos /></s>
+        </p>
+      </div>
+      <pb n="19" />
+      <div type="chapter" n="13">
+        <head>十三　夏至・冬至</head>
+        <p>
+          <s xml:id="s101"><ocx:r rt="げし">夏至</ocx:r>の日は六月二十二日、<ocx:r rt="とうじ">冬至</ocx:r>の日は十二月二十二日又は二十三日なり。<ocx:eos /></s>
+          <s xml:id="s102">一年中にて、晝の最も長く、夜の最も短きは、夏至の日にして、晝の最も短く、夜の最も長きは、冬至の日なり。<ocx:eos /></s>
+          <s xml:id="s103">太陽の出づる所及び入る所は、夏至の日に最も北にかたより、冬至の日に最も南にかたよる。<ocx:eos /></s>
+          <s xml:id="s104">又正午に於て太陽の最も高きは夏至の日にして、最も低きは冬至の日なり。<ocx:eos /></s>
+        </p>
+      </div>
+      <pb n="20" />
+      <div type="chapter" n="14">
+        <head>十四　螢</head>
+        <p>
+          <s xml:id="s105">螢は其の色黒くして胸部の背面は紅色なり。<ocx:eos /></s>
+          <s xml:id="s106">腹部の下面に黄色の所あり、これより光を放つ。<ocx:eos /></s>
+          <s xml:id="s107">脚は六本あり。<ocx:eos /></s>
+          <s xml:id="s108">はねは四枚あり。<ocx:eos /></s>
+          <s xml:id="s109">前ばねは狹くして厚し。<ocx:eos /></s>
+          <s xml:id="s110">後ばねは廣く薄くして、飛ぶ用をなす。<ocx:eos /></s>
+          <s xml:id="s111">止れるときは後ばねを背の上に疊み、前ばねにて覆ふ。<ocx:eos /></s>
+          <s xml:id="s112">蝶・螢の如き虫を昆虫といふ。<ocx:eos /></s>
+          <s xml:id="s113">何れも六本の脚を有し、多くは四枚のはねを具ふ。<ocx:eos /></s>
+        </p>
+      </div>
+      <div type="chapter" n="15">
+        <head>十五　馬</head>
+        <pb n="21" />
+        <p>
+          <s xml:id="s114">馬は全身に毛を被り、頸にはたてがみあり、尾の毛は殊に長し。<ocx:eos /></s>
+          <s xml:id="s115">脚には一本づつの<ocx:r rt="ゆび">趾</ocx:r>ありて、其の先は大なる<ocx:r rt="ひづめ">蹄</ocx:r>にて包まる。<ocx:eos /></s>
+          <s xml:id="s116"><ocx:r rt="かかと">跟</ocx:r>は上の方にありて、膝の如く見ゆ。<ocx:eos /></s>
+          <s xml:id="s117">馬は主に草を食す。<ocx:eos /></s>
+          <s xml:id="s118">昔より乗用及び力役の爲に人に飼はる。<ocx:eos /></s>
+          <s xml:id="s119">又肉は食用となり、皮・蹄は器具を造る材料となる。<ocx:eos /></s>
+        </p>
+      </div>
+      <div type="chapter" n="16">
+        <head>十六　牛</head>
+        <p>
+          <s xml:id="s120">牛の脚には大なる趾二本ありて、其の先に各〻蹄を具ふ。<ocx:eos /></s>
+          <pb n="22" />
+          <s xml:id="s121">額には一對の角あり。<ocx:eos /></s>
+          <s xml:id="s122">上顎には前齒なし。<ocx:eos /></s>
+          <s xml:id="s123">牛は主に草を食し、食物は一旦食ひて後更に口に返して噛直す。<ocx:eos /></s>
+          <s xml:id="s124">昔より人に飼はれ、多く力役に用ひらる。<ocx:eos /></s>
+          <s xml:id="s125">又肉と乳とは重要なる食品にして、皮・骨・角は器具を造る材料となる。<ocx:eos /></s>
+        </p>
+      </div>
+      <div type="chapter" n="17">
+        <head>十七　池中の小動物</head>
+        <p>
+          <s xml:id="s126">げんごろうは稍〻大なる昆虫にして、巧みに水中を泳ぎ、小さき魚等を捕へて食ふ。<ocx:eos /></s>
+          <s xml:id="s127">其の幼虫は細長くして、はねなし。<ocx:eos /></s>
+          <pb n="24" />
+          <s xml:id="s128">みづすましは小さき昆虫にして、巧みに水面を泳ぎ廻る。<ocx:eos /></s>
+          <s xml:id="s129">やごはとんぼの幼虫なり。<ocx:eos /></s>
+          <s xml:id="s130">水底を匐ひあるき、小さき虫を捕へて食ふ。<ocx:eos /></s>
+          <s xml:id="s131">ぼうふりは蚊の幼虫なり。<ocx:eos /></s>
+          <s xml:id="s132">體を屈伸して水中を運動す。<ocx:eos /></s>
+          <s xml:id="s133">みぢんこは一生水中に棲む甚だ小さき動物にして、小さき魚の餌となる。<ocx:eos /></s>
+        </p>
+      </div>
+      <div type="chapter" n="18">
+        <head>十八　きんぎよも・うきくさ・蓮</head>
+        <p>
+          <s xml:id="s134">きんぎよもは水中に生ず。<ocx:eos /></s>
+          <s xml:id="s135">莖は細長くして水に漂<pb n="25" />ひ、葉は細く分る。<ocx:eos /></s>
+          <s xml:id="s136">うきくさは小さき楕圓形の植物にして、水面に浮び漂ふ。<ocx:eos /></s>
+          <s xml:id="s137">其の下面より細き根出づれども、水底に固着せず。<ocx:eos /></s>
+          <s xml:id="s138">蓮は水底の泥の中に太き地下莖を有す。<ocx:eos /></s>
+          <s xml:id="s139">蓮根と稱するものこれなり。<ocx:eos /></s>
+          <s xml:id="s140">葉と花とは何れも長き柄にて地下莖の節に着き、水上にあらはる。<ocx:eos /></s>
+          <s xml:id="s141">花にはがく・はなびら及び多くのをしべあり、中心にはうてな（花托）と云ふものありて、其の上面に多くのめしべを着く。<ocx:eos /></s>
+        </p>
+      </div>
+      <pb n="26" />
+      <div type="chapter" n="19">
+        <head>十九　朝顔</head>
+        <p>
+          <s xml:id="s142">朝顔の莖は長き蔓となる。<ocx:eos /></s>
+          <s xml:id="s143">花は五片に分れたるがくを有し、はなびらは相合して<ocx:r rt="じやうご">漏斗</ocx:r>の形をなす。<ocx:eos /></s>
+          <s xml:id="s144">をしべは五本、めしべは一本あり。<ocx:eos /></s>
+          <s xml:id="s145">みは其の内部三室に分れ、各室に一二箇のたねあり、熟すれば果皮三つに裂けて中よりたねを出す。<ocx:eos /></s>
+        </p>
+      </div>
+      <div type="chapter" n="20">
+        <head>二十　稻</head>
+        <p>
+          <s xml:id="s146">稻は莖・葉・根の形狀略〻麥の如し。<ocx:eos /></s>
+          <pb n="27" />
+          <s xml:id="s147">春、苗代にたねを蒔きて苗を仕立て、後之を田に移し植ゑて成長せしむ。<ocx:eos /></s>
+          <s xml:id="s148">秋の初に至れば、茎の上部に、疎なる穗をなして花を着く。<ocx:eos /></s>
+          <s xml:id="s149">花はがく・はなびら共になく、二枚のはうにて包まる。<ocx:eos /></s>
+          <s xml:id="s150">をしべは六本、めしべは一箇あり。<ocx:eos /></s>
+          <pb n="28" />
+        </p>
+      </div>
+      <div type="chapter" n="21">
+        <head>二十一　みどりうんか</head>
+        <p>
+          <s xml:id="s151">みどりうんかは形蟬に似たる小さき綠色の昆虫なり。<ocx:eos /></s>
+          <s xml:id="s152">はねにて飛び、又脚にて跳ねあるく。<ocx:eos /></s>
+          <pb n="29" />
+          <s xml:id="s153">幼虫は形親に似たれども、はねなし。<ocx:eos /></s>
+          <s xml:id="s154">共に稻の莖・葉より養分を吸取りて害をなす。<ocx:eos /></s>
+          <s xml:id="s155">之を除くには、捕虫網にて捕へ、或は田の水面に油をまきて其の上に拂ひ落す。<ocx:eos /></s>
+        </p>
+      </div>
+      <div type="chapter" n="22">
+        <head>二十二　ずゐむし</head>
+        <p>
+          <s xml:id="s156">ずゐむしは稻の莖の中に棲む細長き淡黃色の虫にして、莖の内部を食ひて、之を枯す。<ocx:eos /></s>
+          <s xml:id="s157">一種の<ocx:r rt="が">蛾</ocx:r>の幼虫にして、一年に二回發生するもの多し。<ocx:eos /></s>
+          <s xml:id="s158">此の害を除くには、其の蛾を燈火にて誘い殺し、又<pb n="30" />ずゐむしの棲める莖を取りて燒棄つ。<ocx:eos /></s>
+        </p>
+      </div>
+      <div type="chapter" n="23">
+        <head>二十三　茄・きうりのみ</head>
+        <p>
+          <s xml:id="s159">茄のみの本を包めるへたはがくの大きくなれる<pb n="31" />ものなり。<ocx:eos /></s>
+          <s xml:id="s160">きうりのみの先につきたる小片はがくの殘れるものなり。<ocx:eos /></s>
+          <s xml:id="s161">茄・きうりのみは共に多肉にして水分を多く含み、中に數多の小さき堅きたねを有す。<ocx:eos /></s>
+          <s xml:id="s162">此の多肉なる部分は果皮の厚くなれるものなり。<ocx:eos /></s>
+        </p>
+      </div>
+      <div type="chapter" n="24">
+        <head>二十四　わらび</head>
+        <p>
+          <s xml:id="s163">わらびは地中に長き地下莖を有す。<ocx:eos /></s>
+          <s xml:id="s164">葉は地下莖より出で、甚だ大きくして、こまかに分れ、裏にははうし（胞子）と云ふ粉を生ず。<ocx:eos /></s>
+          <pb n="32" />
+          <s xml:id="s165">はうし地に落つる時は芽を出して繁殖す。<ocx:eos /></s>
+          <s xml:id="s166">わらびは花を生ぜず。<ocx:eos /></s>
+          <s xml:id="s167">わらびの若葉は食用とし、地下莖より取れる<ocx:r rt="わらびこ">蕨粉</ocx:r>は糊又は食用とす。<ocx:eos /></s>
+          <s xml:id="s168">ぜんまい・うらじろ・しのぶ等もわらびに似たる植物なり。<ocx:eos /></s>
+          <s xml:id="s169">これ等を總稱してしだ類と云ふ。<ocx:eos /></s>
+        </p>
+      </div>
+      <div type="chapter" n="25">
+        <head>二十五　こほろぎ</head>
+        <p>
+          <s xml:id="s170">こほろぎは畑地などに棲みて植物を食する昆虫なり。<ocx:eos /></s>
+          <s xml:id="s171">體は黒褐色にして、太く肥ゆ。<ocx:eos /></s>
+          <s xml:id="s172">常にに四枚のはねを疊みて背の上に重ぬ。<ocx:eos /></s>
+          <pb n="33" />
+          <s xml:id="s173">脚は最後の二本長大なり。<ocx:eos /></s>
+          <s xml:id="s174">これにて跳ねあるく。<ocx:eos /></s>
+          <s xml:id="s175">雌は腹の先に長き管あり。<ocx:eos /></s>
+          <s xml:id="s176">これにて土中に卵を產込む。<ocx:eos /></s>
+          <s xml:id="s177">雄は前ばねを摩合せて美しき聲を出す。<ocx:eos /></s>
+        </p>
+      </div>
+      <div type="chapter" n="26">
+        <head>二十六　柿のみ</head>
+        <p>
+          <s xml:id="s178">柿のみの本にあるへたはがくの大きくなれるものなり。<ocx:eos /></s>
+          <s xml:id="s179">みの多肉なる部分は果皮の厚くなり且水<pb n="34" />分に富めるものにして、其の中に數箇の堅きたねあり。<ocx:eos /></s>
+          <s xml:id="s180">たねには其の皮の中に<ocx:r rt="はい">胚</ocx:r>と胚乳とあり。<ocx:eos /></s>
+          <s xml:id="s181">胚は一本の小さき莖の先に二枚の<ocx:r rt="しえふ">子葉</ocx:r>を具ふ。<ocx:eos /></s>
+          <s xml:id="s182">柿の若きみより取れる澁は塗料に用ふ。<ocx:eos /></s>
+        </p>
+      </div>
+      <div type="chapter" n="27">
+        <head>二十七　栗のみ</head>
+        <p>
+          <s xml:id="s183">栗のいがははうの變じて成れるものなり。<ocx:eos /></s>
+          <s xml:id="s184">其の中に二三箇のみあり。<ocx:eos /></s>
+          <s xml:id="s185">熟すればいが開きてみ落つ。<ocx:eos /></s>
+          <s xml:id="s186">みは褐色の堅き果皮を有し、其の中に通常一箇の<pb n="35" />大なるたねあり。<ocx:eos /></s>
+          <s xml:id="s187">たねには澁皮の中に厚き二枚の子葉と小さき莖とあり。<ocx:eos /></s>
+          <s xml:id="s188">子葉は養分に富めり。<ocx:eos /></s>
+        </p>
+      </div>
+      <div type="chapter" n="28">
+        <head>二十八　たねの散布</head>
+        <p>
+          <s xml:id="s189">たんぽぽのみは毛を具へ、又松のたね、きりのたね、もみぢのみ等ははねの如きものを具ふ。<ocx:eos /></s>
+          <s xml:id="s190">是等は風によりて散布す。<ocx:eos /></s>
+          <s xml:id="s191">ぶだう・ざくろ等のたねは之を包める味よき部分が動物の食用となることによりて散布す。<ocx:eos /></s>
+          <pb n="36" />
+          <s xml:id="s192">ぬすびとはぎ・ゐのこづち等のたねはみに着ける鈎・針の如きものにて動物に附着して散布す。<ocx:eos /></s>
+          <pb n="37" />
+          <s xml:id="s193">ほうせんくわ・げんのしょうこ等はみの裂くるとき自らたねを彈き散らす。<ocx:eos /></s>
+        </p>
+      </div>
+      <div type="chapter" n="29">
+        <head>二十九　松蕈</head>
+        <p>
+          <s xml:id="s194">松蕈の生ずる所には土中に白き蜘蛛網の如き絲はびこり、秋に至れば松蕈これより生ず。<ocx:eos /></s>
+          <s xml:id="s195">松蕈は笠の下面に<ocx:r rt="ひだ">襞</ocx:r>ありて、これに多くのはうしを生ず。<ocx:eos /></s>
+          <s xml:id="s196">椎蕈・初茸・しめぢなど松蕈に似たるもの多し。<ocx:eos /></s>
+          <s xml:id="s197">これ等を總稱して<ocx:r rt="きんるゐ">菌類</ocx:r>と云ふ。<ocx:eos /></s>
+          <s xml:id="s198">菌類には有毒のもの少からず。<ocx:eos /></s>
+        </p>
+      </div>
+      <pb n="38" />
+      <div type="chapter" n="30">
+        <head>三十　甘藷・馬鈴薯</head>
+        <p>
+          <s xml:id="s199"><ocx:r rt="さつまいも">甘藷</ocx:r>の<ocx:r rt="いも">薯</ocx:r>は根の太く肥えたるものなり。<ocx:eos /></s>
+          <s xml:id="s200"><ocx:r rt="じやがたらいも">馬鈴薯</ocx:r>の薯は地下莖の太く肥えたるものにして、所所に小さき芽を有す。<ocx:eos /></s>
+          <s xml:id="s201">これ等の薯<pb n="39" />の肥太りたるは、後に芽を出す時の用として、多くの養分を貯ふるによるなり。<ocx:eos /></s>
+        </p>
+      </div>
+      <div type="chapter" n="31">
+        <head>三十一　稻の收穫</head>
+        <p>
+          <s xml:id="s202">稻のみは秋熟す。<ocx:eos /></s>
+          <s xml:id="s203">薄き果皮の中に一箇の肥えたるたねを有し、二枚の硬きはうにて包まる。<ocx:eos /></s>
+          <pb n="40" />
+          <s xml:id="s204">このみのはうを被れるままのものを<ocx:r rt="もみ">籾</ocx:r>と云ひ、このはうを<ocx:r rt="もみがら">籾殻</ocx:r>と云ふ。<ocx:eos /></s>
+          <s xml:id="s205">み熟して籾の黄色となれる頃、稻を刈取り、乾かして籾を<ocx:r rt="こき">扱</ocx:r>落し、更に籾を乾かして後籾殻とみとに分つ。<ocx:eos /></s>
+          <s xml:id="s206">このみは即ち玄米なり。<ocx:eos /></s>
+        </p>
+      </div>
+      <div type="chapter" n="32">
+        <head>三十二　菊</head>
+        <p>
+          <s xml:id="s207">菊は多くの小さき花相集りて頭狀花をなせるものにして、其の中心部にある花は、周邊にある<pb n="41" />花に比ぶれば、多くは小さくして、其の形異なり。<ocx:eos /></s>
+          <s xml:id="s208">菊は花を見る爲に昔より培養せられ、變種多し。<ocx:eos /></s>
+        </p>
+      </div>
+      <div type="chapter" n="33">
+        <head>三十三　紅葉・落葉及び常綠木</head>
+        <p>
+          <s xml:id="s209">もみぢが秋の末に紅葉するは葉の中に紅色の液を生ずるによる。<ocx:eos /></s>
+          <s xml:id="s210">紅葉する木はもみぢの外にも多し。<ocx:eos /></s>
+          <s xml:id="s211">中にはいてふ等の如く美しき黄色に變ずるものあり。<ocx:eos /></s>
+          <s xml:id="s212">多くの木は秋の末に至りて落葉す。<ocx:eos /></s>
+          <s xml:id="s213">此の時は葉が既に其の働を終りて、本の部分に離れ易き境目生ぜるが故に、僅の風にも散落つるなり。<ocx:eos /></s>
+          <pb n="42" />
+          <s xml:id="s214">又木の中には冬もなほ綠葉を有するものあり。<ocx:eos /></s>
+          <s xml:id="s215">之を常綠木といひ、其の葉は厚くして堅し。<ocx:eos /></s>
+        </p>
+      </div>
+      <div type="chapter" n="34">
+        <head>三十四　冬芽</head>
+        <p>
+          <s xml:id="s216">冬、木の枝の先及び葉の着きたる所の直上を見れば、そこに堅き芽あり。<ocx:eos /></s>
+          <s xml:id="s217">此の芽はみな鱗片にて包まれてよく寒き氣候に堪へ、春に至りて伸開く。<ocx:eos /></s>
+        </p>
+      </div>
+      <pb n="43" />
+      <div type="chapter" n="35">
+        <head>三十五　雞</head>
+        <p>
+          <s xml:id="s218">雞は飛ぶこと拙くして、常に地上を歩み、脚の爪にて地面を搔き、穀粒・虫などを求め食ふ。<ocx:eos /></s>
+          <s xml:id="s219">雄は<ocx:r rt="とさか">肉冠</ocx:r>大きく尾羽長く、脚にけづめ（距）を具ふ。<ocx:eos /></s>
+          <s xml:id="s220">雌は肉冠小さく、尾羽短し。<ocx:eos /></s>
+          <s xml:id="s221">卵は殻の中に<ocx:r rt="しろみ">卵白</ocx:r>と<ocx:r rt="きみ">卵黄</ocx:r>とあり。<ocx:eos /></s>
+          <s xml:id="s222">卵黄の面にある白き圓き點は後に雛となるものにして、卵白と卵黄とは其の養分なり。<ocx:eos /></s>
+        </p>
+      </div>
+      <div type="chapter" n="36">
+        <head>三十六　鴨</head>
+        <p>
+          <s xml:id="s223">鴨は池・沼等に群るる水鳥にして、秋來り、春去る。<ocx:eos /></s>
+          <s xml:id="s224">體に<pb n="44" />軟き羽毛密生せるによりてよく寒さに堪ふ。<ocx:eos /></s>
+          <s xml:id="s225">翼は大きくして強く、脚は短く、趾の間にみづかきを具ふ。<ocx:eos /></s>
+          <s xml:id="s226">飛ぶこと、泳ぐこと共に巧なり。<ocx:eos /></s>
+          <s xml:id="s227">嘴はひらたくして長し。<ocx:eos /></s>
+          <s xml:id="s228">尾の本より出づる<ocx:r rt="あぶら">脂</ocx:r>を常に嘴にて羽毛に塗附け、其の水に濡るるを防ぐ。<ocx:eos /></s>
+          <s xml:id="s229">あひるは鴨の變したるものなり。<ocx:eos /></s>
+        </p>
+      </div>
+      <div type="chapter" n="37">
+        <head>三十七　土</head>
+        <p>
+          <s xml:id="s230">普通の土は主に砂と粘土とより成る。<ocx:eos /></s>
+          <s xml:id="s231">砂は粗くして硬く、粘土は柔にして粘りけあり。<ocx:eos /></s>
+          <pb n="45" />
+          <s xml:id="s232">岩石も永く空氣・水又は木の根などに侵さるるときは、次第に碎けて終には土となる。<ocx:eos /></s>
+        </p>
+      </div>
+      <div type="chapter" n="38">
+        <head>三十八　岩石</head>
+        <p>
+          <s xml:id="s233">岩石は崖・谷間などに多く現る。<ocx:eos /></s>
+          <s xml:id="s234">その他の所にても、土の下には必ず岩石あり。<ocx:eos /></s>
+          <s xml:id="s235"><ocx:r rt="みかげいし">花崗岩</ocx:r>は美しき堅き岩石にして、石英・長石・雲母と名づくる三種の鑛物より成る。<ocx:eos /></s>
+        </p>
+      </div>
+      <div type="chapter" n="39">
+        <head>三十九　石英・長石・雲母</head>
+        <p>
+          <s xml:id="s236">水晶は普通、無色透明にして、結晶の形は六角柱をなし端尖れり。<ocx:eos /></s>
+          <pb n="46" />
+          <s xml:id="s237">紫水晶・煙水晶・白水晶なども水晶の類なり。<ocx:eos />總稱して石英と云ふ。<ocx:eos /></s>
+          <s xml:id="s238">石英は頗る硬く、且火に熔難し。<ocx:eos /></s>
+          <s xml:id="s239">長石は白色又は肉色にして、不透明なり。<ocx:eos /></s>
+          <s xml:id="s240">雲母は白色又は黒褐色にして、薄く剝れ易し。<ocx:eos /></s>
+          <s xml:id="s241">石英・長石・雲母は種種の岩石の主なる成分として廣<pb n="47" />く存す。<ocx:eos /></s>
+          <s xml:id="s242">水晶は装飾品として用ひ、長石は陶磁器を造る材料とす。<ocx:eos /></s>
+        </p>
+      </div>
+      <div type="chapter" n="40">
+        <head>四十　黃鐵礦</head>
+        <p>
+          <s xml:id="s243">黃鐵礦は淡黄色にして光澤強く、金の如く見ゆ。<ocx:eos /></s>
+          <s xml:id="s244">不透明にして硬し。<ocx:eos /></s>
+          <s xml:id="s245">條痕は褐黑色なり。<ocx:eos /></s>
+          <s xml:id="s246">結晶は多くは立方體なり。<ocx:eos /></s>
+          <s xml:id="s247">硫黃と鐵とより成る。<ocx:eos /></s>
+        </p>
+      </div>
+      <div type="chapter" n="41">
+        <head>四十一　方解石・石灰岩</head>
+        <p>
+          <s xml:id="s248">方解石は普通、白色又は灰色にして、其の結晶はマ<pb n="48" />ツチの箱をゆがめたるが如し。<ocx:eos /></s>
+          <s xml:id="s249">小刀にて容易く傷つくべし。<ocx:eos /></s>
+          <s xml:id="s250">又割れ易くして、割れたる片は元の形に似たり。<ocx:eos /></s>
+          <s xml:id="s251">方解石には無色透明のものあり、文字などを透し見るに二重に見ゆ。<ocx:eos /></s>
+          <s xml:id="s252">方解石は集りて石灰岩といふ岩石を成す。<ocx:eos /></s>
+          <s xml:id="s253">石灰岩は燒きて石灰を製す。<ocx:eos /></s>
+        </p>
+      </div>
+      <pb n="49" />
+      <div type="chapter" n="42">
+        <head>四十二　空氣の性質</head>
+        <p>
+          <s xml:id="s254">空氣ある所には、之を壓除くるにあらざれば、他物は入來ること能はず。<ocx:eos /></s>
+          <s xml:id="s255">これ空氣も亦場所を占むるによる。<ocx:eos /></s>
+          <s xml:id="s256">空氣は之を壓せば、著しく縮み、壓す力を去れば、直ちに膨れて舊の體積となる。<ocx:eos /></s>
+          <s xml:id="s257">總べて空氣の如き物を氣體と云ふ。<ocx:eos /></s>
+        </p>
+      </div>
+      <div type="chapter" n="43">
+        <head>四十三　水の性質及び物體の三態</head>
+        <p>
+          <s xml:id="s258">水は形を變じ易けれども、壓縮むること難し。<ocx:eos /></s>
+          <s xml:id="s259">總べて水の如き物を液體と云ふ。<ocx:eos /></s>
+          <pb n="50" />
+          <s xml:id="s260">石・木片等は形を變じ難し。<ocx:eos /></s>
+          <s xml:id="s261">これ等を總べて固體と云ふ。<ocx:eos /></s>
+          <s xml:id="s262">物體には固體・液體・氣體の別あり。<ocx:eos /></s>
+          <s xml:id="s263">固體は形も體積も變じ難し。<ocx:eos /></s>
+          <s xml:id="s264">液體は形を變じ易けれども、體積を變じ難し。<ocx:eos /></s>
+          <s xml:id="s265">氣體は形も體積も變じ易し。<ocx:eos /></s>
+        </p>
+      </div>
+      <div type="chapter" n="44">
+        <head>四十四　熱</head>
+        <p>
+          <s xml:id="s266">物の燃ゆるときは熱を生じ、物を摩合するときにも熱を生ず。<ocx:eos /></s>
+          <s xml:id="s267">熱は熱きものより冷きものに移る。<ocx:eos /></s>
+        </p>
+      </div>
+      <pb n="51" />
+      <div type="chapter" n="45">
+        <head>四十五　熱による膨脹</head>
+        <p>
+          <s xml:id="s268">物體は熱すれば膨脹す。<ocx:eos /></s>
+          <s xml:id="s269">熱によりて液體の膨脹することは固體よりも大にして、氣體の膨脹することは液體よりも更に大なり。<ocx:eos /></s>
+        </p>
+      </div>
+      <div type="chapter" n="46">
+        <head>四十六　水の三態の變化</head>
+        <p>
+          <s xml:id="s270">水は熱すれば變じて氣體となる。<ocx:eos /></s>
+          <s xml:id="s271">此の氣體を水蒸氣といふ。<ocx:eos /></s>
+          <s xml:id="s272">水蒸氣は眼に見えず。<ocx:eos /></s>
+          <s xml:id="s273">湯氣は水蒸氣の冷えて細かき水滴となりたるものなり。<ocx:eos /></s>
+          <pb n="52" />
+          <s xml:id="s274">水は冷ゆれば固體となる。<ocx:eos /></s>
+          <s xml:id="s275">氷是なり。<ocx:eos /></s>
+        </p>
+      </div>
+      <div type="chapter" n="47">
+        <head>四十七　寒暖計</head>
+        <p>
+          <s xml:id="s276">寒暖計は物の温度を計るに用ふ。<ocx:eos /></s>
+          <s xml:id="s277">寒暖計の目盛には攝氏の目盛と華氏の目盛との二種あり。<ocx:eos /></s>
+          <s xml:id="s278">攝氏の目盛は水の解くる温度を零度とし、水の沸騰する温度を百度とす。<ocx:eos /></s>
+          <pb n="53" />
+          <s xml:id="s279">華氏の三十二度は攝氏の零度に當り、華氏の二百十二度は攝氏の百度に當る。<ocx:eos /></s>
+        </p>
+      </div>
+      <div type="chapter" n="48">
+        <head>四十八　火</head>
+        <p>
+          <s xml:id="s280">炭火、ランプの火等の如く、物の燃ゆるときは熱と光とを發す。<ocx:eos /></s>
+          <s xml:id="s281">焰は氣體の燃ゆるときに現るるものなり。<ocx:eos /></s>
+          <s xml:id="s282">物は燃ゆるにつれて次第に其の量を減ず。<ocx:eos /></s>
+          <s xml:id="s283">火の燃ゆるには絶えず新しき空氣を要す。<ocx:eos /></s>
+        </p>
+      </div>
+      <div type="chapter" n="49">
+        <head>四十九　酸素</head>
+        <p>
+          <s xml:id="s284">酸素は無色の氣體にして、空氣よりは少しく重し。<ocx:eos /></s>
+          <pb n="54" />
+          <s xml:id="s285">酸素の中にては空氣の中よりも物の燃ゆること盛なり。<ocx:eos /></s>
+        </p>
+      </div>
+      <div type="chapter" n="50">
+        <head>五十　水素</head>
+        <p>
+          <s xml:id="s286">水素は甚だ輕き無色の氣體にして、よく燃ゆ。<ocx:eos /></s>
+          <s xml:id="s287">水素が空氣の中にて燃ゆるときは水を生ず。<ocx:eos /></s>
+        </p>
+      </div>
+      <div type="chapter" n="51">
+        <head>五十一　水の成分</head>
+        <p>
+          <s xml:id="s288">水素が酸素の中にて燃ゆるときは亦水を生ず。<ocx:eos /></s>
+          <s xml:id="s289">此のとき水素の減ずると共に酸素も亦次第に減ず。<ocx:eos /></s>
+          <s xml:id="s290">これ水素と酸素とが化合して水を生ずるによるなり。<ocx:eos /></s>
+        </p>
+      </div>
+      <div type="chapter" n="55">
+        <head>五十二　空氣の成分</head>
+        <p>
+          <s xml:id="s291">空氣は酸素と窒素との相混れるものにして、其の體積の凡そ五分の一は酸素、五分の四は窒素なり。<ocx:eos /></s>
+          <s xml:id="s292">空氣中にて水素の燃ゆるとき水を生ずるは、空氣が酸素を含めるによる。<ocx:eos /></s>
+          <s xml:id="s293">窒素のみの中にては火は燃えず。<ocx:eos /></s>
+        </p>
+      </div>
+      <div type="chapter" n="53">
+        <head>五十三　炭酸ガス</head>
+        <p>
+          <s xml:id="s294">炭酸ガスは無色の氣體なり。<ocx:eos /></s>
+          <s xml:id="s295">空氣よりも重し。<ocx:eos /></s>
+          <s xml:id="s296">水に溶け、少しく酸味を呈す。<ocx:eos /></s>
+          <s xml:id="s297">炭酸ガスは石灰を溶かしたる水を濁らす。<ocx:eos /></s>
+          <pb n="56" />
+          <s xml:id="s298">炭酸ガスの中にては火は燃えず。<ocx:eos /></s>
+        </p>
+      </div>
+      <div type="chapter" n="54">
+        <head>五十四　燃焼によりて生ずる物</head>
+        <p>
+          <s xml:id="s299">炭の燃ゆるときは炭酸ガスを生ず。<ocx:eos /></s>
+          <s xml:id="s300">炭酸ガスは炭素と酸素との化合物なり。<ocx:eos /></s>
+          <s xml:id="s301">動植物體の燃ゆるときは炭酸ガスの外に尙水を生ず。<ocx:eos /></s>
+          <s xml:id="s302">動植物體にある主なる元素は炭素・酸素・水素・窒素なり。<ocx:eos /></s>
+        </p>
+      </div>
+      <div type="chapter" n="55">
+        <head>五十五　春分・秋分</head>
+        <p>
+          <s xml:id="s303">春分の日は三月二十一日又は二十二日なり。<ocx:eos /></s>
+          <pb n="57" />
+          <s xml:id="s304">秋分の日は九月二十三日又は二十四日なり。<ocx:eos /></s>
+          <s xml:id="s305">春分の日及び秋分の日には、太陽は眞東より出でて眞西に入り、晝の長さは夜の長さに等し。<ocx:eos /></s>
+        </p>
+      </div>
+      </ocx:doc>
+    
