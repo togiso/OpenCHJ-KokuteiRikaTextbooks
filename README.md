@@ -9,5 +9,8 @@
 
 ocx:docの範囲だけがOpenCHJの本文として形態論情報が付与され「中納言」で検索可能になります。
 
+## 形態論情報について
+形態論情報は **[旧仮名口語UniDic](https://clrd.ninjal.ac.jp/unidic/download_all.html)** を使用して短単位に解析したものです。
+
 ## ライセンス
 - [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
