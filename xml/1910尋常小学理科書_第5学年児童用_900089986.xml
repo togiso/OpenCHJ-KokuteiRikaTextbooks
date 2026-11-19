@@ -244,7 +244,8 @@
           <s xml:id="s086">花には雄花と雌花とあり。<ocx:eos/></s>
           <s xml:id="s087">共にがくあれどもはなびらなし。<ocx:eos/></s>
           <pb n="17"/>
-          <s xml:id="s088">をしべは雄花のみにあり。<ocx:eos/>めしべは雌花のみにあり。<ocx:eos/></s>
+          <s xml:id="s088">をしべは雄花のみにあり。<ocx:eos/></s>
+          <s xml:id="s088_2">めしべは雌花のみにあり。<ocx:eos/></s>
           <s xml:id="s089">雌花は三箇ばかりづつ集りてはうに包まる。<ocx:eos/></s>
           <s xml:id="s090">栗の花は香あり。<ocx:eos/></s>
           <s xml:id="s091">花粉は虫に運ばれて、めしべに着く。<ocx:eos/></s>
@@ -553,7 +554,8 @@
         <p>
           <s xml:id="s236">水晶は普通、無色透明にして、結晶の形は六角柱をなし端尖れり。<ocx:eos/></s>
           <pb n="46"/>
-          <s xml:id="s237">紫水晶・煙水晶・白水晶なども水晶の類なり。<ocx:eos/>總稱して石英と云ふ。<ocx:eos/></s>
+          <s xml:id="s237">紫水晶・煙水晶・白水晶なども水晶の類なり。<ocx:eos/></s>
+          <s xml:id="s237_2">總稱して石英と云ふ。<ocx:eos/></s>
           <s xml:id="s238">石英は頗る硬く、且火に熔難し。<ocx:eos/></s>
           <s xml:id="s239">長石は白色又は肉色にして、不透明なり。<ocx:eos/></s>
           <s xml:id="s240">雲母は白色又は黒褐色にして、薄く剝れ易し。<ocx:eos/></s>
@@ -727,7 +729,7 @@
            <s xml:id="s_colophon8">著作兼発行者 文部省</s>
            <s xml:id="s_colophon9">翻刻發行兼印刷者 東京書籍株式會社 代表者 原亮一郎</s>
            <s xml:id="s_colophon10">印刷所 東京書籍株式會社工場</s>
-           <s xml:id="s_colophon10">發賣所 國定教科書共同販賣所</s>
+           <s xml:id="s_colophon11">發賣所 國定教科書共同販賣所</s>
          </p>
       </div>
     </back>

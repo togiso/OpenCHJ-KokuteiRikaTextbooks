@@ -454,7 +454,8 @@
           <s xml:id="s159">さなぎは堅き皮にておほはれ、後に皮をぬぎて蠶のがとなり、まゆより出づ。<ocx:eos/></s>
         </p>
         <p>
-          <s xml:id="s160">蠶のがは蝶に似たる白色のこんちゆうにして、體太く肥ゆ。<ocx:eos/>はねあれども飛ぶこと能はず。<ocx:eos/></s>
+          <s xml:id="s160">蠶のがは蝶に似たる白色のこんちゆうにして、體太く肥ゆ。<ocx:eos/></s>
+          <s xml:id="s160_2">はねあれども飛ぶこと能はず。<ocx:eos/></s>
           <s xml:id="s161">あしにて歩む。<ocx:eos/></s>
           <s xml:id="s162">其のめす<pb n="25"/>を厚紙の上にのせて卵を産附けしむれば種紙となる。<ocx:eos/></s>
         </p>
@@ -711,7 +712,8 @@
           <s xml:id="s272">こきえんさんは表面より悪しきにほひの煙を出す。<ocx:eos/></s>
         </p>
         <p>
-          <s xml:id="s273">こきりうさんはやゝねばし。<ocx:eos/>動植物體に附着すれば之を黒色に變じてくちしむ。<ocx:eos/></s>
+          <s xml:id="s273">こきりうさんはやゝねばし。<ocx:eos/></s>
+          <s xml:id="s273_2">動植物體に附着すれば之を黒色に變じてくちしむ。<ocx:eos/></s>
         </p>
         <p>
           <s xml:id="s274">こきせうさんも動植物體に著しき作用をなす。<ocx:eos/></s>
@@ -1226,11 +1228,11 @@
            <s xml:id="s_colophon4">大正八年二月廿八日翻刻發行</s>
            <s xml:id="s_colophon5">著作權所有</s>
            <s xml:id="s_colophon6">大正八年二月二十四日文部省檢查濟</s>
-           <s xml:id="s_colophon5">定價金七錢</s>
-           <s xml:id="s_colophon6">著作兼発行者 文部省</s>
-           <s xml:id="s_colophon7">翻刻發行兼印刷者 日本書籍株式會社 代表者 大倉保五郎</s>
-           <s xml:id="s_colophon8">印刷所 日本書籍株式會社工場</s>
-           <s xml:id="s_colophon9">發賣所 國定教科書共同販賣所</s>
+           <s xml:id="s_colophon7">定價金七錢</s>
+           <s xml:id="s_colophon8">著作兼発行者 文部省</s>
+           <s xml:id="s_colophon9">翻刻發行兼印刷者 日本書籍株式會社 代表者 大倉保五郎</s>
+           <s xml:id="s_colophon10">印刷所 日本書籍株式會社工場</s>
+           <s xml:id="s_colophon11">發賣所 國定教科書共同販賣所</s>
          </p>
       </div>
     </back>
